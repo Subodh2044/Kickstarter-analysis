@@ -2,4 +2,4 @@
 Analysis on Kickstarter data
 ** Bold **
 ## Subodh
-** Bold **
+*Bold*
