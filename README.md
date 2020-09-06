@@ -9,7 +9,7 @@ For the analysis information was provided from the Kickstarter campaign dataset 
 
 **Outcomes Based on Launch Date**
 As part of an analysis, the data were grouped on the monthly basis for all the years 2009 through 2017 and drilled on the outcome basis
-fhfjfjhf
+
 
 
 
