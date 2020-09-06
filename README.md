@@ -12,7 +12,7 @@ As part of an analysis, the data were grouped on the monthly basis for all the y
 
 I didn't encounter any challenges during analyzing data per instructions but looking at it from very high level, if I was being presented, in my opinion it would be more clearer to see the outcomes based on the percentage rate than just the number of counts.
 
-**Outcomes based on Goals**
+**Outcomes Based on Goals**
 
 For this analysis the goals were grouped in different intervals, minimum being less than 1,000 and maximum for more than 50,000. Then the outcomes were counted to caluculate percetage rate of success and failure. This does paints a clearer picture of how outcome rate to make a decision in the future on when to held more fund raising events versus when to invest less time and effort. 
 
