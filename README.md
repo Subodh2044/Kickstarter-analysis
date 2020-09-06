@@ -27,6 +27,8 @@ Average success rate through out the year is 60% whereas May and June have the h
 
 Among all the amount interval of goals, most successful campaing held falls under interval of 1,000 - 4,999 goal with the count of 388 out of 694.
 
+**Recommendations**
+
 The first recommendation I would make is do analysis on pledge than the goal because it is the money that would be funded, which will help us set goals in the future. I would make a recommendations of various visualitzations such as bar graph of goals and pledge on yearly basis so that we can see the trend.  I would also clarify if the amount in goals and pledges for the campaign held in Great Britain were the converted amount.  Another analysis to perform will be based on all categories to see which ones are more successful than other.
 
 
