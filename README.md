@@ -19,11 +19,11 @@ For this analysis the goals were grouped in different intervals, minimum being l
 
 # Conclusion
 
-**Outcomes based on Launch Date**
+**Outcomes Based on Launch Date**
 
 Average success rate through out the year is 60% whereas May and June have the highest success rate in camparison to rest of the months, which I believe can be attributed to weather. On the other hand, there is a positive correlation of 0.80 between number of successful campaign and number of failed, which leads us to believe that greater the total number of campaign events are held more like to to have out come of success and failure - on average of 36%.
 
-**Outcomes based on Goals** 
+**Outcomes Based on Goals** 
 
 Among all the amount interval of goals, most successful campaing held falls under interval of 1,000 - 4,999 goal with the count of 388 out of 694.
 
